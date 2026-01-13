@@ -41,7 +41,3 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   </div>
 </div>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonJuhwanaaa)](https://github.com/JeonJuhwanaaa/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonJuhwanaaa&show_icons=true&theme=tokyonighttokyonight)
