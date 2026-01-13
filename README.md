@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=JUHWAN's%20Github&animation=fadeIn&fontColor=d129ff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=JUHWAN's%20Github&animation=fadeIn&fontColor=0fb7ff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -33,8 +33,6 @@
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=JeonJuhwanaaa&bg_color=180,000000,00000000&title_color=e51fff&text_color=e51fff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJuhwanaaa&layout=compact&bg_color=180,000000,00000000&title_color=e51fff&text_color=e51fff"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">   </div> 
     </div>
     
