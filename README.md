@@ -3,7 +3,7 @@
 </div>
 
 <div>
-    <h3>:loudspeaker:</h3>
+    <h2>📢 Juhwan is</h2>
 </div>
 
 <div style="text-align: left;">
@@ -12,8 +12,8 @@
 </div>
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠 Tech Stacks </h2><br>
-  <div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ☀️ Learning </h2><br>
+  <div align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
@@ -42,4 +42,9 @@
   </div>
 </div>
 
-![K-Junyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonJuhwanaaa&show_icons=true&theme=merko)
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Development Journey </h2><br>
+
+<div align="left">
+  <img src="https://github-readme-stats-beta-gilt-44.vercel.app/api?username=JeonJuhwanaaa&show_icons=true&theme=solarized-light&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-beta-gilt-44.vercel.app/api/top-langs/?username=JeonJuhwanaaa&layout=compact&theme=solarized-light&hide_border=true" height="170"/>
+</div>
