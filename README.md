@@ -2,11 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=215E61&height=180&text=Juhwan's%20Github&animation=fadeIn&fontColor=black&fontSize=60" />
     <!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=&height=230&section=header&text=Juhwan&fontSize=90" /> -->
 </div>
-
-<div>
-    <h2>📢 Juhwan is</h2>
-</div>
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"></h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
