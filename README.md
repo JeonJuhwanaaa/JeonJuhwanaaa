@@ -1,5 +1,5 @@
 <div align= "right">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=215E61&height=180&text=Juhwan's%20Github&animation=fadeIn&fontColor=black&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=Transparent&color=215E61&height=180&text=Juhwan's%20Github&animation=fadeIn&fontColor=FE7F2D&fontSize=60&fontAlign=28" />
     <!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=&height=230&section=header&text=Juhwan&fontSize=90" /> -->
 </div>
 <div style="text-align: left;">
